@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hik:home|Door43 (hik)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hik|d43-hik repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hik/archive/master.zip|d43-hik.zip]]
+
+**Recent Changes**
+{{changes>ns = hik}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hik|Ethnologue data]]
+
